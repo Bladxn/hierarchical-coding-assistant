@@ -1,0 +1,6 @@
+pydantic>=2.6.1
+langchain>=0.1.8
+langgraph>=0.0.19
+pytest>=8.0.0
+python-dotenv>=1.0.1
+docker>=7.0.0 
